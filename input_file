@@ -1,0 +1,17 @@
+#!/usr/bin/env/ python
+
+def main():
+    micro_xsec = input("Input the microscopic cross section: ")
+    macro_xsec = input("Input the macroscopic cross section: ")
+    double_diff_scatt_xsec = input("Input the double differential scattering cross section: ")
+    fussion_yield = input("Input the fussion yield: ")
+    fussion_spec = input("Input the fussion spectrum: ")
+    particle_ang_den = input("Input the particle andular density: ")
+    particle_den = input("Input the particle density: ")
+    angular_fluz = input("input the angular flux: ")
+    angular_current_den = input("input the angular current density: ")
+    scalar_fluz = input("input the scalar flux: ")
+    interaction_rate_den = input("Input th einteraction rate density: ")
+    net_current = input("Input the net current: ")
+    
+    ;
